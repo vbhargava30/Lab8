@@ -4,6 +4,8 @@
  * @see <a href="https://cs125.cs.illinois.edu/lab/10/">Lab 10 Description</a>
  */
 public class Employee {
+    
+    //email is varunb2@illinois.edu
 
     private String name;
     private String manager;
